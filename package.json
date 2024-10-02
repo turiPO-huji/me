@@ -25,7 +25,7 @@
     "url": "git://github.com/mongo-express/mongo-express.git"
   },
   "dependencies": {
-    "basic-auth-connect": "^1.0.0",
+    "basic-auth-connect": "^1.1.0",
     "body-parser": "^1.20.1",
     "bootstrap-paginator": "github:rtritto/bootstrap-paginator#develop",
     "bson": "^4.7.0",
