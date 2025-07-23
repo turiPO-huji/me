@@ -38,7 +38,7 @@
     "errorhandler": "1.5.1",
     "express": "^4.18.2",
     "express-fileupload": "^1.4.0",
-    "express-session": "^1.17.3",
+    "express-session": "^1.18.2",
     "flat": "^5.0.2",
     "free-swig": "^1.5.2",
     "gridfs-stream": "^1.1.1",
@@ -49,7 +49,7 @@
     "method-override": "^3.0.0",
     "mongodb": "^4.13.0",
     "mongodb-query-parser": "^2.4.11",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "nyc": "^15.1.0",
     "serve-favicon": "^2.5.0"
   },
